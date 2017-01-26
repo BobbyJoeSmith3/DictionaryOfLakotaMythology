@@ -38,3 +38,11 @@ p {
 li {
   margin-top: 20px;
 }
+
+@media only screen and (min-width: 768px) {
+  /* FOR DESKTOP */
+  .alpha-unit {
+    width: 48%;
+    float: left;
+  }
+}
