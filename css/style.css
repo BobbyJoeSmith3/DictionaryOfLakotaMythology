@@ -1,0 +1,40 @@
+body {
+  padding: 10px;
+}
+
+.site-wrapper {
+  padding: 10%;
+}
+
+h1 {
+  font-family: "helvetica", sans-serif;
+  font-size: 24pt;
+  font-weight:600;
+}
+
+h2 {
+  margin-top: 40px;
+  font-family: "helvetica", sans-serif;
+  font-size: 140pt;
+  font-weight: 800;
+}
+
+h2.fricatives {
+  margin-top: 75px;
+}
+
+h3 {
+  font-family: "Big Caslon", serif;
+  font-size: 24pt;
+}
+
+p {
+  margin-top: 5px;
+  font-family: "helvetica", sans-serif;
+  font-size: 16pt;
+  font-weight: 200;
+}
+
+li {
+  margin-top: 20px;
+}
